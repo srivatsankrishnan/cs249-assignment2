@@ -134,3 +134,10 @@ data/
 *.record.*
 *.zip
 visualwakewords/*
+
+# TF Checkpoints
+vww_96_grayscale/*
+*.meta
+*.index
+*.data-*
+checkpoint
