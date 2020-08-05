@@ -14,5 +14,8 @@
     --num_epochs_per_decay=2.5 ^
     --moving_average_decay=0.9999 ^
     --batch_size=96 ^
-    --max_number_of_steps=1000000
+    --max_number_of_steps=500000 ^
+    --checkpoint_path=C:\workspace\cs249-assignment2-module-2\vww_96_grayscale
+
+
 

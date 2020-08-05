@@ -141,3 +141,7 @@ vww_96_grayscale/*
 *.index
 *.data-*
 checkpoint
+*.pb
+*.TFLite
+*.cc
+
