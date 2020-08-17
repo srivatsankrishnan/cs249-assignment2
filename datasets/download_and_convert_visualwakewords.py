@@ -79,7 +79,7 @@ from __future__ import print_function
 import os
 import tensorflow.compat.v1 as tf
 
-from datasets import download_and_convert_visualwakewords_lib
+import download_and_convert_visualwakewords_lib
 
 tf.logging.set_verbosity(tf.logging.INFO)
 

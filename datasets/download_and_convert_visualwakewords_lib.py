@@ -35,7 +35,7 @@ import PIL.Image
 import six
 import tensorflow.compat.v1 as tf
 
-from datasets import dataset_utils
+import dataset_utils
 
 tf.logging.set_verbosity(tf.logging.INFO)
 

@@ -145,3 +145,6 @@ vww_96_grayscale/checkpoint
 *.TFLite
 *.cc
 
+*.rar
+person_detection_model/
+
