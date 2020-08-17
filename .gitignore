@@ -137,10 +137,10 @@ visualwakewords/*
 
 # TF Checkpoints
 vww_96_grayscale/*
-*.meta
-*.index
-*.data-*
-checkpoint
+vww_96_grayscale/*.meta
+vww_96_grayscale/*.index
+vww_96_grayscale/*.data-*
+vww_96_grayscale/checkpoint
 *.pb
 *.TFLite
 *.cc
