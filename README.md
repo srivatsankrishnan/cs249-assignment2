@@ -1,4 +1,4 @@
-# cs249-assignment2-module-2
+# CS249-Assignment 2
 Code and other scripts needed for assignment-2 module-3 (CS249-Fall 2020 Assignment 2)
 
 # Acknowledgements
