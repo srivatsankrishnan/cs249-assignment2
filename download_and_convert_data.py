@@ -39,7 +39,7 @@ import tensorflow.compat.v1 as tf
 cwd = os.getcwd()
 dataset_path = os.path.join(cwd,"datasets")
 
-sys.path.append(str(cwd))
+sys.path.append(dataset_path)
 from datasets import download_and_convert_visualwakewords
 
 FLAGS = tf.app.flags.FLAGS
