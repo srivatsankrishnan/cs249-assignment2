@@ -1,5 +1,5 @@
  python train_image_classifier.py ^
-    --train_dir=vww_96_grayscale ^
+    --train_dir=C:\workspace\cs249-assignment2-module-2\vww_96_grayscale_pdold ^
     --dataset_name=visualwakewords ^
     --dataset_split_name=train ^
     --dataset_dir=C:\workspace\cs249-assignment2-module-2\data\visualwakewords ^
@@ -15,7 +15,7 @@
     --moving_average_decay=0.9999 ^
     --batch_size=96 ^
     --max_number_of_steps=500000 ^
-    --checkpoint_path=C:\workspace\cs249-assignment2-module-2\vww_96_grayscale
+    --clone_on_cpu=True
 
 
 

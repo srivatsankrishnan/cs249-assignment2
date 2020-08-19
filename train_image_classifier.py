@@ -238,6 +238,9 @@ tf.app.flags.DEFINE_boolean(
 
 FLAGS = tf.app.flags.FLAGS
 
+#####################
+# Fine-Tuning Flags #
+#####################
 
 def _configure_learning_rate(num_samples_per_epoch, global_step):
   """Configures the learning rate.
