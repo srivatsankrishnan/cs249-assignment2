@@ -10,7 +10,8 @@
     --save_summaries_secs=300 \
     --learning_rate=0.045 \
     --label_smoothing=0.1 \
-    --learning_rate_decay_factor=0.\
+    --learning_rate_decay_factor=0.98 \
+    --num_epochs_per_decay=2.5 \
     --moving_average_decay=0.9999 \
     --batch_size=96 \
     --max_number_of_steps=500000 \
